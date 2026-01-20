@@ -1,6 +1,9 @@
-# Simple Execution Rule
+---
+name: simple-execution
+description: A lightweight rule for quick, straightforward task execution without multi-phase overhead. Ideal for simple, well-defined, low-risk changes.
+---
 
-## Description
+# Simple Execution Rule
 
 A lightweight rule for straightforward task execution. Use this when you need the AI to perform simple, well-defined tasks quickly without the overhead of a multi-phase protocol.
 

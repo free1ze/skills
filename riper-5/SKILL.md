@@ -1,6 +1,9 @@
-# RIPER-5: AI Coding Behavior Protocol
+---
+name: riper-5
+description: A strict behavioral protocol with 5 modes (Research, Innovate, Plan, Execute, Review) that constrains AI behavior through mandatory phased workflow to ensure safe, controllable code changes.
+---
 
-## Description
+# RIPER-5: AI Coding Behavior Protocol
 
 RIPER-5 is a strict behavioral protocol and workflow framework designed for advanced AI assistants (such as Claude 4) integrated into IDEs like Cursor. It constrains AI behavior through a mandatory, phased process to ensure each operation is safe, controllable, and predictable.
 
