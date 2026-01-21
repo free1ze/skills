@@ -22,6 +22,12 @@ A lightweight rule for straightforward task execution. Use when tasks are simple
 
 [View Simple Execution Skill](./simple-execution/SKILL.md)
 
+### 3. Markdown Style
+
+Google Markdown style guide principles for creating clean, readable, and maintainable documentation. Based on Google's official style guide.
+
+[View Markdown Style Skill](./markdown-style/SKILL.md)
+
 ## Usage
 
 Copy the content of the desired skill into your AI assistant's system prompt or rules configuration.
