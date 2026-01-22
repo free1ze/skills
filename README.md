@@ -28,6 +28,18 @@ Google Markdown style guide principles for creating clean, readable, and maintai
 
 [View Markdown Style Skill](./markdown-style/SKILL.md)
 
+### 4. Compact
+
+A context compression tool to solve LLM context window overload. It stops current tasks to review, prune, and summarize the session history into a high-density "State Snapshot" for seamless migration to a new chat.
+
+[View Compact Skill](./compact/SKILL.md)
+
+### 5. Wrap Up
+
+A delivery management skill for the final phase of a session. It checks code hygiene (cleaning up print statements, TODOs), reminds about documentation updates, and generates standard Git commit messages.
+
+[View Wrap Up Skill](./wrapup/SKILL.md)
+
 ## Usage
 
 Copy the content of the desired skill into your AI assistant's system prompt or rules configuration.
